@@ -2,7 +2,7 @@
 
 export const Login = () => {
     return (
-        "Desenvolvimento da tela de login"
+        " Tela de login desenvolvida"
     )
 }
 
